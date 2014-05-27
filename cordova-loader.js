@@ -1,5 +1,5 @@
 (function(){
-  if ((navigator.userAgent.match(/Android/i)) || (navigator.userAgent.match(/iPhone|iPad|iPod/i)) {
+  if ((navigator.userAgent.match(/Android/i)) || (navigator.userAgent.match(/iPhone|iPad|iPod/i))) {
     if (typeof location.href === "string") {
       var relativePath = location.href.split("/www")[1];
       var paths = relativePath.split("/");
