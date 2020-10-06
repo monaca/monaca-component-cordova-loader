@@ -1,6 +1,6 @@
 {
   "name": "monaca-cordova-loader",
-  "version": "1.0.4",
+  "version": "1.0.4-dev",
   "description": "Load cordova.js for Monaca apps.",
   "main": "cordova-loader.js",
   "monaca" : {
